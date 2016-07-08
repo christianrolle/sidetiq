@@ -6,7 +6,7 @@ require 'time'
 
 # gems
 require 'ice_cube'
-require 'sidekiq'
+require 'sidekiq/current'
 require 'celluloid'
 
 # internal
